@@ -1,0 +1,10 @@
+你在 master branch
+
+当前 branch 没有落后于 origin/master
+
+你有 untracked files （未追踪的文件），文件名是 shopping list.txt。
+
+你可以使用 git add 来开始追踪文件。...
+
+https://juejin.im
+掘金 — 一个帮助开发者成长的社区
